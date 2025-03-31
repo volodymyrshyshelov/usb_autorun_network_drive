@@ -1,0 +1,4 @@
+[autorun]
+OPEN=AutoVPN.exe
+ICON=AutoVPN.exe
+ACTION = Usb-Menu
